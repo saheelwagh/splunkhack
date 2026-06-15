@@ -1,0 +1,6 @@
+streamlit
+splunk-sdk
+python-dotenv
+requests
+openai
+anthropic
